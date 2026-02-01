@@ -7,7 +7,7 @@ function Projects() {
         <li>AI Detector (Flask)</li>
         <li>Student Management System</li>
         <li>World Alarm Clock</li>
-        <li></li>
+        <li>video player</li>
       </ul>
     </section>
   );
